@@ -4,8 +4,6 @@ A C++ project that implements arithmetic operations on complex numbers using ope
 
 ## Features
 
-The `Complex` class supports the following operations:
-
 - Addition (`+`)
 - Subtraction (`-`)
 - Multiplication (`*`)
@@ -27,15 +25,6 @@ Where:
 - `a` represents the real part.
 - `b` represents the imaginary part.
 - `j` represents the imaginary unit.
-
-## Project Structure
-
-```text
-Complex-Calculator/
-│
-├── main.cpp
-└── README.md
-```
 
 ## Requirements
 
@@ -77,6 +66,10 @@ c2 / c1 = 3.4 - 1.8j
 - Constant member functions
 - Exception handling
 - Floating-point arithmetic
+
+## Project Discussion
+
+[View the ChatGPT discussion](https://chatgpt.com/share/6af86904-4400-83e9-aad7-02e0365aeff6)
 
 ## Author
 
