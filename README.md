@@ -80,8 +80,4 @@ c2 / c1 = 3.4 - 1.8j
 
 ## Author
 
-Basel
-
----
-
-**Purpose:** Practice C++ object-oriented programming and operator overloading through a practical complex-number calculator.
+Flavio027
